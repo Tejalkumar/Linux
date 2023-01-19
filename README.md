@@ -39,4 +39,4 @@ Assignments:
 3. Echo the two variable values
 4. Export the above two variables in bashrc file.
 5. List all hiddden files in your home directory.
-6. Create a directory in your home folder named as test and inside the test folder create file my_intro with content as your name.
+6. Create a directory in your home folder named as test and inside the test folder create file my_intro with content as your name..
